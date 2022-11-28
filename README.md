@@ -1,2 +1,2 @@
 # LandingPage_Owners
-Projeto em Bootstrap da Owners
+Projeto em Bootstrap da Owners, segunda parte, atualizada.
